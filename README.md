@@ -11,7 +11,7 @@
 
 1- Create a virtual enviroment
 
-`python3 -m venv venv `
+`python3 -m venv venv `or `python -m venv venv `
 
 2- Execute the enviroment
 `.\<environment_name>\Scripts\activate`
